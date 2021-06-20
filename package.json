@@ -1,0 +1,22 @@
+{
+  "name": "astrocord",
+  "version": "1.0.0",
+  "description": "AstroCord Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KermitTheDestroyah/AstroCord.git"
+  },
+  "author": "Max Raffel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KermitTheDestroyah/AstroCord/issues"
+  },
+  "homepage": "https://github.com/KermitTheDestroyah/AstroCord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
