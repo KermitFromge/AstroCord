@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/KermitTheDestroyah/AstroCord#readme",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "@types/node": "^16.4.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
   }
 }
